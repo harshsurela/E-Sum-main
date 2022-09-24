@@ -1,0 +1,4 @@
+Human-quality text summarization systems are dicult to design, and even more dicult to evalu￾ate, in part because documents can dier along several di￾mensions, such as length, writing style and lexical usage.
+We illustrate our discussions with empirical re￾sults showing the importance of corpus-dependent baseline summarization standards, compression ratios and carefully crafted long queries.
+To evaluate these features we use a normalized version of precision-recall curves, with a baseline of random sentence selection, as well as analyze the properties of such a baseline.
+Sentences are ranked for potential inclusion in the summary using a weighted combination of statistical and linguistic features.
